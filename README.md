@@ -9,6 +9,8 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 -Exploratory Data Analysis: Analyzed distributions and relationships using descriptive statistics, correlations, and visualizations.
 -Modeling: Trained and evaluated thirteen models (e.g., Logistic Regression, Random Forest, XGBoost) with tuned hyperparameters. Selected a Random Forest Classifier with an optimized decision threshold, achieving an Accuracy of 0.89, recall of 0.83, and precision of 0.83 for the default class on the hold-out test set. Visualized feature importances and showed model prediction examples.
 
+!(https://github.com/Mikeyjud401/Default_Loan_Prediction/blob/main/models_test.png)
+
 ---
 
 ## Python Libraries Used
