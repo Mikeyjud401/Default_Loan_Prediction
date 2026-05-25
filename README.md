@@ -24,4 +24,4 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 ---
 
 ## Check Out The Notebook
-(https://github.com/Mikeyjud401/Default_Loan_Prediction/blob/main/Capstone_Project_Reference_Notebook_Loan_Default_Prediction_Full_Code%20(2)%20(2).ipynb)
+[Default Loan Prediction](https://github.com/Mikeyjud401/Default_Loan_Prediction/blob/main/Capstone_Project_Reference_Notebook_Loan_Default_Prediction_Full_Code%20(2)%20(2).ipynb)
