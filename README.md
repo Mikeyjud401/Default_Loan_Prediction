@@ -25,3 +25,12 @@ Built an end-to-end machine learning solution for predicting loan defaults using
 
 ## Check Out The Notebook
 [Default Loan Prediction](https://github.com/Mikeyjud401/Default_Loan_Prediction/blob/main/Capstone_Project_Reference_Notebook_Loan_Default_Prediction_Full_Code%20(2)%20(2).ipynb)
+
+---
+
+## Usage
+To run Jupyter Notebook file containing code for this analysis, simply download the ipynb file and open it in Jupyter Notebook or any compatible enviornment.
+
+Feel free to explore the code and adapt it to your own analysis project!
+
+Note: This project is solely for educational and demonstration purposes.
